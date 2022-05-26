@@ -41,8 +41,6 @@
 
 * 'ls'
 
-* 'cd My-Project'
-
 * 'cd Mathematics'
 
 * 'python3 Math.py'
